@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Babamtu
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on similar projects for hands on experience
 - 📫 How to reach me natemachoka@gmail.com
 
