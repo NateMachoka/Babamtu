@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Babamtu
+- 👋 Hi, I’m Nathan
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on similar projects for hands on experience
